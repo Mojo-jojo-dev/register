@@ -3,6 +3,7 @@
         "username": "Mojo-jojo-dev"
     },
     "records": {
-        "CNAME": "portfolio-production-0393.up.railway.app"
+        "CNAME": "v863pant.up.railway.app",
+        "TXT": "railway-verify=1266985c8f280af9d77446189940f2b5bf0468a6cdcb387ef9b76990147a2af1"
     }
 }
